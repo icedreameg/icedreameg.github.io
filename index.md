@@ -6,7 +6,6 @@ Ice Dream is a premier establishment for the consumption of food and beverage.
 
 We are a trailblazer in the industry and have pioneered the following features which will enhance your experience greatly:
 
-```markdown
 - Non-alcoholic beer
 - Vegan ice cream
 - Nachos
@@ -18,5 +17,4 @@ We are a trailblazer in the industry and have pioneered the following features w
 - Children's card games
 - Collectible NFTs for the first 300 customers
 - Non-algorithmic stablecoin known as DreamCoin which provides discounts on purchases
-```
 
